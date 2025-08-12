@@ -168,7 +168,7 @@
   location: Pimenta Bueno, Brazil
   tier: 2
   enabled: true
-- base_url: https://stygian.failzero.net/void/
+- base_url: https://stygian.failzero.net/mirror/void/
   region: CA
   location: Montreal, QC, Canada
   tier: 2 
